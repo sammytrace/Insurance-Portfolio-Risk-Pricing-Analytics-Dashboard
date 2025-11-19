@@ -1,8 +1,8 @@
-Insurance-Portfolio-Risk-&-Pricing-Analytics-Dashboard
-
-This project explores a synthetic insurance dataset to uncover hidden patterns across risk, pricing, profitability, customer behaviour, and conversion efficiency. Using Power BI, I developed a full analytical dashboard with dedicated pages for underwriting, pricing, customer retention, and marketing funnel performance.
+# Insurance-Portfolio-Risk-&-Pricing-Analytics-Dashboard
 
 # 📌 Project Overview
+
+This project explores a synthetic insurance dataset to uncover hidden patterns across risk, pricing, profitability, customer behaviour, and conversion efficiency. Using Power BI, I developed a full analytical dashboard with dedicated pages for underwriting, pricing, customer retention, and marketing funnel performance.
 
 The goal was to:
 
