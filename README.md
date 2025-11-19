@@ -39,40 +39,40 @@ DAX – Custom measures & calculated columns
 # 1. Home / Portfolio Overview
 
 10K policyholders analyzed
-a. Conversion rate: 57.7%.
-b. Average premium: £2.2K.
-c. High-level view of premiums by region, policy type, and risk tier.
+1. Conversion rate: 57.7%.
+2. Average premium: £2.2K.
+3. High-level view of premiums by region, policy type, and risk tier.
 
 # 2. Underwriting & Risk Analytics
 
 Assessed how risk metrics influence pricing and segmentation:
-a. High Risk customers represent 11% of the portfolio.
-b. Claims Frequency & Severity heatmaps.
-c. Credit Score distribution across risk groups.
-d. Identified potential misalignment between risk exposure and premium charged.
+1. High Risk customers represent 11% of the portfolio.
+2. Claims Frequency & Severity heatmaps.
+3. Credit Score distribution across risk groups.
+4. Identified potential misalignment between risk exposure and premium charged.
 
 # 3. Pricing & Profitability
 
 Compared pricing levels across risk segments:
-a. Premium levels for High, Medium, and Low Risk customers showed minimal differentiation.
-b. Discounts increase noticeably in lower credit score bands.
-c. Premium/Discount ratio demonstrated potential cross-subsidisation.
-d. Insights indicated opportunity for more risk-sensitive pricing.
+1. Premium levels for High, Medium, and Low Risk customers showed minimal differentiation.
+2. Discounts increase noticeably in lower credit score bands.
+3. Premium/Discount ratio demonstrated potential cross-subsidisation.
+4. Insights indicated opportunity for more risk-sensitive pricing.
 
 # 4. Customer Loyalty & Retention
 
 Analysed customer tenure and retention behaviour:
-a. 26% of customers have been loyal for over 5 years.
-b. Premium levels consistent across loyalty bands.
-c. Highest discounts given to long-tenured customers.
-d. Loyalty appears strongest among Low Risk customers.
+1. 26% of customers have been loyal for over 5 years.
+2. Premium levels consistent across loyalty bands.
+3. Highest discounts given to long-tenured customers.
+4. Loyalty appears strongest among Low Risk customers.
 
 # 5. Marketing & Engagement
 
-a. Mapped the customer acquisition funnel:
+1. Mapped the customer acquisition funnel:
 Funnel: Website Visits → Inquiries → Quotes → Conversion
-b. Engagement Level strongly correlated with higher premium amounts.
-c. Cumulative conversion curve exposed drop-off points in customer journey.
+2. Engagement Level strongly correlated with higher premium amounts.
+3. Cumulative conversion curve exposed drop-off points in customer journey.
 
 # 6. Executive Summary & Actuarial Recommendation
 
